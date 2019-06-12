@@ -2,7 +2,6 @@ RANPLAN EXERCISES
 Author: Julio Pereira
 Date: 12-06-2019
 
-First of all many thanks for considering my application. 
 In this folder you will find the files for the three different exercises: 
 
 - quarto.cs and quarto.exe for the 1st exercise
@@ -13,8 +12,6 @@ Although the 3rd exercise was just about cleaning the code, I decided to run it 
 
 All .exe files are ready to run on the console. 
 
-I'll be attentive to follow up, 
-
-Regards, 
+Many thanks, Regards, 
 
 
